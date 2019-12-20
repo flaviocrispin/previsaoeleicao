@@ -1,4 +1,4 @@
-# Previsão de eleições
+# Previsão de eleições (com machine learning)
 Esse algoritmo (KNN) faz uma previsão baseado em respostas retiradas por um questionário alguns dias antes das eleições para governador em um determinado
 estado brasileiro.
 
